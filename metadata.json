@@ -1,0 +1,6 @@
+{
+  "name": "Iuran Gandana",
+  "description": "Aplikasi pembayaran iuran warga Cluster Gandana dengan notifikasi tagihan bulanan dan riwayat pembayaran transparan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
